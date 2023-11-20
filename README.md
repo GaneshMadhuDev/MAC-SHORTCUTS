@@ -76,3 +76,11 @@
 46. Left Arrow: Close the selected folder. This works only when in list view.
 47. Command-Delete: Move the selected item to the Trash.
 48. Shift-Command-Delete: Empty the Trash.
+
+
+1. Go to end of line	Cmd-right arrow
+2. Go to beginning of line	Cmd-left arrow
+3. Go to end of all the text	Cmd-down arrow
+4. Go to beginning of all the text	Cmd-up arrow
+5. Go to end of current or next word	Option-right arrow
+6. Go to beginning of current or previous word
