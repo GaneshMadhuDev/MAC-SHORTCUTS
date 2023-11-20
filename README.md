@@ -58,21 +58,21 @@
 28. Control-Command-A: Make an alias of the selected item.
 29. Command-N: Open a new Finder window.
 30. Option-Command-N: Create a new Smart Folder.
-Command-T: Show or hide the tab bar when a single tab is open in the current Finder window.
-Option-Command-T: Show or hide the toolbar when a single tab is open in the current Finder window.
-Option-Command-V: Move the files in the Clipboard from their original location to the current location.
-Command-Y: Use Quick Look to preview the selected files.
-Option-Command-Y: View a Quick Look slideshow of the selected files.
-Command-1: View the items in the Finder window as icons.
-Command-2: View the items in a Finder window as a list.
-Command-3: View the items in a Finder window in columns. 
-Command-4: View the items in a Finder window in a gallery.
-Command–Left Bracket ([): Go to the previous folder.
-Command–Right Bracket (]): Go to the next folder.
-Command–Up Arrow: Open the folder that contains the current folder.
-Command–Control–Up Arrow: Open the folder that contains the current folder in a new window.
-Command–Down Arrow: Open the selected item.
-Right Arrow: Open the selected folder. This works only when in list view.
-Left Arrow: Close the selected folder. This works only when in list view.
-Command-Delete: Move the selected item to the Trash.
-Shift-Command-Delete: Empty the Trash.
+31. Command-T: Show or hide the tab bar when a single tab is open in the current Finder window.
+32. Option-Command-T: Show or hide the toolbar when a single tab is open in the current Finder window.
+33. Option-Command-V: Move the files in the Clipboard from their original location to the current location.
+34. Command-Y: Use Quick Look to preview the selected files.
+35. Option-Command-Y: View a Quick Look slideshow of the selected files.
+36. Command-1: View the items in the Finder window as icons.
+37. Command-2: View the items in a Finder window as a list.
+38. Command-3: View the items in a Finder window in columns.
+39. Command-4: View the items in a Finder window in a gallery.
+40. Command–Left Bracket ([): Go to the previous folder.
+41. Command–Right Bracket (]): Go to the next folder.
+42. Command–Up Arrow: Open the folder that contains the current folder.
+43. Command–Control–Up Arrow: Open the folder that contains the current folder in a new window.
+44. Command–Down Arrow: Open the selected item.
+45. Right Arrow: Open the selected folder. This works only when in list view.
+46. Left Arrow: Close the selected folder. This works only when in list view.
+47. Command-Delete: Move the selected item to the Trash.
+48. Shift-Command-Delete: Empty the Trash.
